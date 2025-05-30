@@ -1,0 +1,7 @@
+.DS_Store
+.db
+.pub
+.ssh
+.storage
+.log*
+.google.token
