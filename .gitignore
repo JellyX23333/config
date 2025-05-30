@@ -1,2 +1,6 @@
 .DS_Store
-/Stardewvalley
+Stardewvalley/
+Clash/
+*.o
+htop/
+coc/extensions/
